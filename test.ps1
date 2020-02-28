@@ -1,2 +1,4 @@
 $input=pread-host "enter the word"
-print $input
+for ($i in 10 ){
+    print $input
+}
